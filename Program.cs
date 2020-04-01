@@ -6,6 +6,7 @@ namespace GitTestConsoleApp
     {
         static void Main(string[] args)
         {
+            // Test
             Console.WriteLine("Hello World!");
             Console.Read();
         }
